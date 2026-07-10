@@ -1,0 +1,106 @@
+Date,Canal,Campagne,Région,Device,Impressions,Clicks,CTR,CPC,Spend,Sessions,Leads,Conversions,Revenue,ROAS,Bounce Rate
+2025-01-01,Google Ads,Winter Sale,Europe,Mobile,120000,5400,4.5,0.75,4050,4800,320,85,15200,3.75,42
+2025-01-02,Facebook Ads,Lead Gen Q1,Europe,Desktop,98000,4100,4.18,0.62,2542,3900,280,70,12100,4.76,39
+2025-01-03,LinkedIn,Enterprise B2B,Amérique du Nord,Desktop,45000,1250,2.78,2.5,3125,1180,210,42,18600,5.95,33
+2025-01-04,Instagram,Brand Awareness,Asie,Mobile,210000,7200,3.43,0.48,3456,6900,390,95,17400,5.03,47
+2025-01-05,TikTok,Flash Promo,Europe,Mobile,320000,12800,4.0,0.31,3968,11900,580,120,22800,5.75,51
+2025-01-06,Google Ads,Search High Intent,Afrique,Desktop,56000,3400,6.07,0.92,3128,2950,260,74,14300,4.57,36
+2025-01-07,Facebook Ads,Retargeting,Moyen-Orient,Mobile,88000,5300,6.02,0.55,2915,4700,340,88,16500,5.66,38
+2025-01-08,LinkedIn,SaaS Webinar,Europe,Desktop,39000,980,2.51,3.1,3038,940,180,39,14900,4.9,29
+2025-01-09,Instagram,New Product Launch,Asie,Mobile,260000,9100,3.5,0.42,3822,8300,470,101,21100,5.52,44
+2025-01-10,TikTok,Influencer Push,Amérique du Nord,Mobile,410000,16400,4.0,0.28,4592,15100,720,142,27900,6.08,53
+2025-01-11,Google Ads,Remarketing,Europe,Desktop,74000,3900,5.27,0.81,3159,3500,240,66,13400,4.24,37
+2025-01-12,Facebook Ads,Promo Weekend,Afrique,Mobile,132000,5900,4.47,0.51,3009,5200,310,81,14700,4.89,46
+2025-01-13,LinkedIn,B2B Outreach,Europe,Desktop,51000,1430,2.8,2.85,4075,1320,240,51,20100,4.93,31
+2025-01-14,Instagram,Stories Campaign,Moyen-Orient,Mobile,175000,6700,3.83,0.44,2948,6100,350,76,15800,5.36,43
+2025-01-15,TikTok,Holiday Buzz,Asie,Mobile,390000,15200,3.9,0.29,4408,14200,680,136,26700,6.06,55
+2025-01-16,Google Ads,Lead Capture,Amérique du Nord,Desktop,62000,3600,5.81,0.88,3168,3250,270,73,15100,4.77,34
+2025-01-17,Facebook Ads,Dynamic Ads,Europe,Mobile,118000,5400,4.58,0.56,3024,4900,330,84,16300,5.39,40
+2025-01-18,LinkedIn,Decision Makers,Afrique,Desktop,35000,890,2.54,3.4,3026,810,150,33,13200,4.36,27
+2025-01-19,Instagram,Awareness Push,Europe,Mobile,240000,8600,3.58,0.46,3956,7900,420,94,18700,4.73,48
+2025-01-20,TikTok,Gen Z Promo,Asie,Mobile,470000,18900,4.02,0.27,5103,17300,820,155,31500,6.17,57
+2025-01-21,Google Ads,Conversion Boost,Moyen-Orient,Desktop,68000,4100,6.03,0.84,3444,3720,290,79,16200,4.7,35
+2025-01-22,Facebook Ads,Season Campaign,Afrique,Mobile,145000,6400,4.41,0.49,3136,5600,340,87,15400,4.91,45
+2025-01-23,LinkedIn,Enterprise Leads,Europe,Desktop,42000,1120,2.67,3.05,3416,1020,190,44,17300,5.06,30
+2025-01-24,Instagram,Creator Campaign,Asie,Mobile,285000,9800,3.44,0.41,4018,9100,510,108,22400,5.57,49
+2025-01-25,TikTok,Weekend Blast,Europe,Mobile,430000,17100,3.98,0.3,5130,15900,760,148,28900,5.63,56
+2025-01-26,Google Ads,Lead Funnel,Afrique,Desktop,59000,3450,5.85,0.91,3139,3080,255,69,14600,4.65,36
+2025-01-27,Facebook Ads,Retention Push,Moyen-Orient,Mobile,101000,4900,4.85,0.58,2842,4500,320,83,15900,5.59,39
+2025-01-28,LinkedIn,B2B Awareness,Amérique du Nord,Desktop,47000,1290,2.74,2.95,3805,1200,205,46,18200,4.78,32
+2025-01-29,Instagram,Social Commerce,Europe,Mobile,255000,8900,3.49,0.43,3827,8100,450,99,20500,5.36,47
+2025-01-30,TikTok,Viral Campaign,Asie,Mobile,520000,20800,4.0,0.26,5408,18900,910,168,33800,6.25,58
+2025-01-31,Google Ads,Winter Sale,Europe,Mobile,120000,5400,4.5,0.75,4050,4800,320,85,15200,3.75,42
+2025-02-01,Facebook Ads,Lead Gen Q1,Europe,Desktop,98000,4100,4.18,0.62,2542,3900,280,70,12100,4.76,39
+2025-02-02,LinkedIn,Enterprise B2B,Amérique du Nord,Desktop,45000,1250,2.78,2.5,3125,1180,210,42,18600,5.95,33
+2025-02-03,Instagram,Brand Awareness,Asie,Mobile,210000,7200,3.43,0.48,3456,6900,390,95,17400,5.03,47
+2025-02-04,TikTok,Flash Promo,Europe,Mobile,320000,12800,4.0,0.31,3968,11900,580,120,22800,5.75,51
+2025-02-05,LinkedIn,SaaS Webinar,Europe,Desktop,39000,980,2.51,3.1,3038,940,180,39,14900,4.9,29
+2025-02-06,Instagram,New Product Launch,Asie,Mobile,260000,9100,3.5,0.42,3822,8300,470,101,21100,5.52,44
+2025-02-07,TikTok,Influencer Push,Amérique du Nord,Mobile,410000,16400,4.0,0.28,4592,15100,720,142,27900,6.08,53
+2025-02-08,Google Ads,Remarketing,Europe,Desktop,74000,3900,5.27,0.81,3159,3500,240,66,13400,4.24,37
+2025-02-09,Facebook Ads,Promo Weekend,Afrique,Mobile,132000,5900,4.47,0.51,3009,5200,310,81,14700,4.89,46
+2025-02-10,LinkedIn,B2B Outreach,Europe,Desktop,51000,1430,2.8,2.85,4075,1320,240,51,20100,4.93,31
+2025-02-11,Instagram,Stories Campaign,Moyen-Orient,Mobile,175000,6700,3.83,0.44,2948,6100,350,76,15800,5.36,43
+2025-02-12,TikTok,Holiday Buzz,Asie,Mobile,390000,15200,3.9,0.29,4408,14200,680,136,26700,6.06,55
+2025-02-13,Google Ads,Lead Capture,Amérique du Nord,Desktop,62000,3600,5.81,0.88,3168,3250,270,73,15100,4.77,34
+2025-02-14,Facebook Ads,Season Campaign,Afrique,Mobile,145000,6400,4.41,0.49,3136,5600,340,87,15400,4.91,45
+2025-02-15,LinkedIn,Enterprise Leads,Europe,Desktop,42000,1120,2.67,3.05,3416,1020,190,44,17300,5.06,30
+2025-02-16,Instagram,Creator Campaign,Asie,Mobile,285000,9800,3.44,0.41,4018,9100,510,108,22400,5.57,49
+2025-02-17,TikTok,Weekend Blast,Europe,Mobile,430000,17100,3.98,0.3,5130,15900,760,148,28900,5.63,56
+2025-02-18,Google Ads,Lead Funnel,Afrique,Desktop,59000,3450,5.85,0.91,3139,3080,255,69,14600,4.65,36
+2025-02-19,Facebook Ads,Retention Push,Moyen-Orient,Mobile,101000,4900,4.85,0.58,2842,4500,320,83,15900,5.59,39
+2025-02-20,LinkedIn,B2B Awareness,Amérique du Nord,Desktop,47000,1290,2.74,2.95,3805,1200,205,46,18200,4.78,32
+2025-02-21,Instagram,Social Commerce,Europe,Mobile,255000,8900,3.49,0.43,3827,8100,450,99,20500,5.36,47
+2025-02-22,Google Ads,Remarketing,Europe,Desktop,74000,3900,5.27,0.81,3159,3500,240,66,13400,4.24,37
+2025-02-23,Facebook Ads,Promo Weekend,Afrique,Mobile,132000,5900,4.47,0.51,3009,5200,310,81,14700,4.89,46
+2025-02-24,LinkedIn,B2B Outreach,Europe,Desktop,51000,1430,2.8,2.85,4075,1320,240,51,20100,4.93,31
+2025-02-25,Instagram,Stories Campaign,Moyen-Orient,Mobile,175000,6700,3.83,0.44,2948,6100,350,76,15800,5.36,43
+2025-02-26,TikTok,Holiday Buzz,Asie,Mobile,390000,15200,3.9,0.29,4408,14200,680,136,26700,6.06,55
+2025-02-27,Facebook Ads,Season Campaign,Afrique,Mobile,145000,6400,4.41,0.49,3136,5600,340,87,15400,4.91,45
+2025-02-28,LinkedIn,Enterprise Leads,Europe,Desktop,42000,1120,2.67,3.05,3416,1020,190,44,17300,5.06,30
+2025-03-01,Instagram,Creator Campaign,Asie,Mobile,285000,9800,3.44,0.41,4018,9100,510,108,22400,5.57,49
+2025-03-02,TikTok,Weekend Blast,Europe,Mobile,430000,17100,3.98,0.3,5130,15900,760,148,28900,5.63,56
+2025-03-03,Google Ads,Lead Funnel,Afrique,Desktop,59000,3450,5.85,0.91,3139,3080,255,69,14600,4.65,36
+2025-03-04,Facebook Ads,Retention Push,Moyen-Orient,Mobile,101000,4900,4.85,0.58,2842,4500,320,83,15900,5.59,39
+2025-03-05,LinkedIn,B2B Awareness,Amérique du Nord,Desktop,47000,1290,2.74,2.95,3805,1200,205,46,18200,4.78,32
+2025-03-06,TikTok,Influencer Push,Amérique du Nord,Mobile,410000,16400,4.0,0.28,4592,15100,720,142,27900,6.08,53
+2025-03-07,Google Ads,Remarketing,Europe,Desktop,74000,3900,5.27,0.81,3159,3500,240,66,13400,4.24,37
+2025-03-08,Facebook Ads,Promo Weekend,Afrique,Mobile,132000,5900,4.47,0.51,3009,5200,310,81,14700,4.89,46
+2025-03-09,LinkedIn,B2B Outreach,Europe,Desktop,51000,1430,2.8,2.85,4075,1320,240,51,20100,4.93,31
+2025-03-10,Instagram,Stories Campaign,Moyen-Orient,Mobile,175000,6700,3.83,0.44,2948,6100,350,76,15800,5.36,43
+2025-03-11,TikTok,Holiday Buzz,Asie,Mobile,390000,15200,3.9,0.29,4408,14200,680,136,26700,6.06,55
+2025-03-12,Google Ads,Lead Capture,Amérique du Nord,Desktop,62000,3600,5.81,0.88,3168,3250,270,73,15100,4.77,34
+2025-03-13,Facebook Ads,Dynamic Ads,Europe,Mobile,118000,5400,4.58,0.56,3024,4900,330,84,16300,5.39,40
+2025-03-14,LinkedIn,Decision Makers,Afrique,Desktop,35000,890,2.54,3.4,3026,810,150,33,13200,4.36,27
+2025-03-15,Instagram,Awareness Push,Europe,Mobile,240000,8600,3.58,0.46,3956,7900,420,94,18700,4.73,48
+2025-03-16,TikTok,Gen Z Promo,Asie,Mobile,470000,18900,4.02,0.27,5103,17300,820,155,31500,6.17,57
+2025-03-17,Google Ads,Conversion Boost,Moyen-Orient,Desktop,68000,4100,6.03,0.84,3444,3720,290,79,16200,4.7,35
+2025-03-18,Facebook Ads,Season Campaign,Afrique,Mobile,145000,6400,4.41,0.49,3136,5600,340,87,15400,4.91,45
+2025-03-19,LinkedIn,Enterprise Leads,Europe,Desktop,42000,1120,2.67,3.05,3416,1020,190,44,17300,5.06,30
+2025-03-20,Instagram,Creator Campaign,Asie,Mobile,285000,9800,3.44,0.41,4018,9100,510,108,22400,5.57,49
+2025-03-21,TikTok,Weekend Blast,Europe,Mobile,430000,17100,3.98,0.3,5130,15900,760,148,28900,5.63,56
+2025-03-22,Google Ads,Lead Funnel,Afrique,Desktop,59000,3450,5.85,0.91,3139,3080,255,69,14600,4.65,36
+2025-03-23,Facebook Ads,Retention Push,Moyen-Orient,Mobile,101000,4900,4.85,0.58,2842,4500,320,83,15900,5.59,39
+2025-03-24,LinkedIn,B2B Awareness,Amérique du Nord,Desktop,47000,1290,2.74,2.95,3805,1200,205,46,18200,4.78,32
+2025-03-25,Instagram,Social Commerce,Europe,Mobile,255000,8900,3.49,0.43,3827,8100,450,99,20500,5.36,47
+2025-03-26,TikTok,Weekend Blast,Europe,Mobile,430000,17100,3.98,0.3,5130,15900,760,148,28900,5.63,56
+2025-03-27,Google Ads,Lead Funnel,Afrique,Desktop,59000,3450,5.85,0.91,3139,3080,255,69,14600,4.65,36
+2025-03-28,Facebook Ads,Retention Push,Moyen-Orient,Mobile,101000,4900,4.85,0.58,2842,4500,320,83,15900,5.59,39
+2025-03-29,LinkedIn,B2B Awareness,Amérique du Nord,Desktop,47000,1290,2.74,2.95,3805,1200,205,46,18200,4.78,32
+2025-03-30,TikTok,Influencer Push,Amérique du Nord,Mobile,410000,16400,4.0,0.28,4592,15100,720,142,27900,6.08,53
+2025-03-31,Google Ads,Remarketing,Europe,Desktop,74000,3900,5.27,0.81,3159,3500,240,66,13400,4.24,37
+2025-04-01,Facebook Ads,Promo Weekend,Afrique,Mobile,132000,5900,4.47,0.51,3009,5200,310,81,14700,4.89,46
+2025-04-02,LinkedIn,B2B Outreach,Europe,Desktop,51000,1430,2.8,2.85,4075,1320,240,51,20100,4.93,31
+2025-04-03,Instagram,New Product Launch,Asie,Mobile,260000,9100,3.5,0.42,3822,8300,470,101,21100,5.52,44
+2025-04-04,TikTok,Influencer Push,Amérique du Nord,Mobile,410000,16400,4.0,0.28,4592,15100,720,142,27900,6.08,53
+2025-04-05,Google Ads,Remarketing,Europe,Desktop,74000,3900,5.27,0.81,3159,3500,240,66,13400,4.24,37
+2025-04-06,Facebook Ads,Promo Weekend,Afrique,Mobile,132000,5900,4.47,0.51,3009,5200,310,81,14700,4.89,46
+2025-04-07,LinkedIn,B2B Outreach,Europe,Desktop,51000,1430,2.8,2.85,4075,1320,240,51,20100,4.93,31
+2025-04-08,Instagram,Stories Campaign,Moyen-Orient,Mobile,175000,6700,3.83,0.44,2948,6100,350,76,15800,5.36,43
+2025-04-09,TikTok,Holiday Buzz,Asie,Mobile,390000,15200,3.9,0.29,4408,14200,680,136,26700,6.06,55
+2025-04-10,Google Ads,Lead Capture,Amérique du Nord,Desktop,62000,3600,5.81,0.88,3168,3250,270,73,15100,4.77,34
+2025-04-11,Facebook Ads,Dynamic Ads,Europe,Mobile,118000,5400,4.58,0.56,3024,4900,330,84,16300,5.39,40
+2025-04-12,LinkedIn,Decision Makers,Afrique,Desktop,35000,890,2.54,3.4,3026,810,150,33,13200,4.36,27
+2025-04-13,Instagram,Awareness Push,Europe,Mobile,240000,8600,3.58,0.46,3956,7900,420,94,18700,4.73,48
+2025-04-14,TikTok,Gen Z Promo,Asie,Mobile,470000,18900,4.02,0.27,5103,17300,820,155,31500,6.17,57
+2025-04-15,Google Ads,Conversion Boost,Moyen-Orient,Desktop,68000,4100,6.03,0.84,3444,3720,290,79,16200,4.7,35
