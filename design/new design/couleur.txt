@@ -1,0 +1,12 @@
+background couleur : #0b0f1e
+
+icone couleur1: #8477ef
+icone couleur2: #ac71df
+
+navigation: #141a2e
+
+selection menu : #2C2F36
+
+texte: #333649
+
+couleur card: #161d34
