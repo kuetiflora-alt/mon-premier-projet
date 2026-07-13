@@ -10,3 +10,25 @@ selection menu : #2C2F36
 texte: #333649
 
 couleur card: #161d34
+
+format dynamique
+#creation de la table de changement
+ModeAffichage =
+DATATABLE(
+    "Mode", STRING,
+    {
+        {"#"},
+        {"%"}
+    }
+)
+
+#dax qui selectionne les valeur
+VAR Choix =
+    SELECTEDVALUE(ModeAffichage[Mode], "%")
+
+RETURN
+SWITCH(
+    Choix,
+    "#", "0.00",
+    "%", "0.00%"
+)
